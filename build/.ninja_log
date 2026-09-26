@@ -1,0 +1,23 @@
+# ninja log v7
+4	41	1790308772776064915	UsersGroups_autogen/timestamp	68e10c2af6f5dc1b
+4	41	1790308772776064915	UsersGroups_autogen/mocs_compilation.cpp	68e10c2af6f5dc1b
+4	41	1790308772776064915	/root/Projects/Users-Groups/build/UsersGroups_autogen/timestamp	68e10c2af6f5dc1b
+4	41	1790308772776064915	/root/Projects/Users-Groups/build/UsersGroups_autogen/mocs_compilation.cpp	68e10c2af6f5dc1b
+53	66	1790307161343767479	CMakeFiles/UsersGroups.dir/UsersGroups_autogen/mocs_compilation.cpp.o	12042acef55bdc82
+42	3649	1790308772816064919	CMakeFiles/UsersGroups.dir/src/main.cpp.o	86a149efc2fa6b07
+4292	4951	1790308777064065708	UsersGroups	b99e78c931784648
+42	3150	1790308772818284919	CMakeFiles/UsersGroups.dir/src/UserManager.cpp.o	dc0285447e0698f2
+42	4292	1790308772818567519	CMakeFiles/UsersGroups.dir/src/UsersPage.cpp.o	d6b05a61f4937d18
+42	4126	1790308772818821819	CMakeFiles/UsersGroups.dir/src/EditUserDialog.cpp.o	394f5be1b72fbfc1
+299	2795	1790419903497389662	build.ninja	2e6a5b2b34b29b84
+299	2795	1790419903497389662	/root/Projects/Users-Groups/build/cmake_install.cmake	2e6a5b2b34b29b84
+190	319	1790419903750505700	UsersGroups_autogen/timestamp	68e10c2af6f5dc1b
+190	319	1790419903750505700	UsersGroups_autogen/mocs_compilation.cpp	68e10c2af6f5dc1b
+190	319	1790419903750505700	/root/Projects/Users-Groups/build/UsersGroups_autogen/timestamp	68e10c2af6f5dc1b
+190	319	1790419903750505700	/root/Projects/Users-Groups/build/UsersGroups_autogen/mocs_compilation.cpp	68e10c2af6f5dc1b
+353	785	1790419903922930200	CMakeFiles/UsersGroups.dir/UsersGroups_autogen/mocs_compilation.cpp.o	12042acef55bdc82
+407	5116	1790419903972149200	CMakeFiles/UsersGroups.dir/src/UserManager.cpp.o	dc0285447e0698f2
+380	5711	1790419903952320300	CMakeFiles/UsersGroups.dir/src/main.cpp.o	86a149efc2fa6b07
+455	6662	1790419904023210500	CMakeFiles/UsersGroups.dir/src/EditUserDialog.cpp.o	394f5be1b72fbfc1
+430	7108	1790419903998267300	CMakeFiles/UsersGroups.dir/src/UsersPage.cpp.o	d6b05a61f4937d18
+7128	11150	1790419910690575600	UsersGroups	b99e78c931784648

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/root/Projects/Users-Groups/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

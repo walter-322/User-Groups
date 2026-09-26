@@ -1,0 +1,5 @@
+/root/Projects/Users-Groups/build/CMakeFiles/UsersGroups.dir
+/root/Projects/Users-Groups/build/CMakeFiles/edit_cache.dir
+/root/Projects/Users-Groups/build/CMakeFiles/rebuild_cache.dir
+/root/Projects/Users-Groups/build/CMakeFiles/UsersGroups_autogen_timestamp_deps.dir
+/root/Projects/Users-Groups/build/CMakeFiles/UsersGroups_autogen.dir

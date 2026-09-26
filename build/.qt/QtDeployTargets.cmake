@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_UsersGroups_FILE /root/Projects/Users-Groups/build/UsersGroups)
+set(__QT_DEPLOY_TARGET_UsersGroups_TYPE EXECUTABLE)
